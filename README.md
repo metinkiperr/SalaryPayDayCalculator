@@ -1,7 +1,7 @@
 ## SalaryPayDayCalculator
 
 
-The example is about creating a command-line utility for determining salary payment dates.
+This application is about creating a command-line utility for determining salary payment dates.
 
 
 ## Getting Started
